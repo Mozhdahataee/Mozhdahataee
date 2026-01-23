@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👩🏻‍💻 Mozhdah N. Ataee
+**`ML & Digital Health | DTU`**
 
+## About Me
+- MSc in Mathematical Modelling and Computation at DTU
+- ML · Data Science · Digital Health · OR & Optimization
+- Interested in AI for healthcare and research-driven projects
+
+## Skill stack
+<!-- Skill icons provided by skill-icons. Full icon list and names:
+     https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list -->
+[![My Skills](https://skillicons.dev/icons?i=arduino,dart,figma,flutter,git,html,java,mysql,matlab,python,pytorch,tensorflow&theme=light)](https://skillicons.dev)
+
+**Also comfortable with**: Mathematical modelling, data analysis, machine learning pipelines, deep learning architectures, and mHealth applications in digital health.
+
+## Links
 <!--
-**Mozhdahataee/Mozhdahataee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [**Contact**](?????)-->
 
-Here are some ideas to get you started:
+<a href="linkedin.com/in/mozhdah-n-ataee-9217471b6" target="blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
