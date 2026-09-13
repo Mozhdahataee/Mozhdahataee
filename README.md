@@ -17,7 +17,7 @@
 <!--
 - [**Contact**](?????)-->
 
-<a href="linkedin.com/in/mozhdah-n-ataee-9217471b6" target="blank">
+<a href="https://www.linkedin.com/in/mozhdah-n-ataee-9217471b6" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
