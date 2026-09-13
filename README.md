@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Mozhdah N. Ataee
-**`ML & Digital Health | DTU`**
+**`OR & Optimization, ML, Digital Health | DTU`**
 
 ## About Me
 - MSc in Mathematical Modelling and Computation at DTU
