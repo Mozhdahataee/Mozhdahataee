@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Mozhdah N. Ataee
+# 👩🏻‍💻 Mozhdah N. Atai
 **`OR & Optimization, ML, Digital Health | DTU`**
 
 ## About Me
